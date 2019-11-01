@@ -104,3 +104,8 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+img{
+  width: 50%;
+  height: 50%;
+}
